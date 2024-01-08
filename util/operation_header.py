@@ -4,7 +4,7 @@ from util.operation_json import OperationJson
 # url = 'http://www.imooc.com/passport/user/login'
 # data = {
 #         "username": "18721268250",
-#         "password": "mxt15952865782",
+#         "password": "xxx",
 #         "verify": "",
 #         "referer": "https://www.imooc.com"
 # }
